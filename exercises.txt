@@ -1,0 +1,79 @@
+#Write line by line
+#First char syntax: # for comment, ! for category, % for moddable exercise, = for timed exercise, ? for title
+#Title (?) would be push OR pull, categories would then be push-e, push-m
+#Mods are specified after title, example: ?push:wide grip,narrow grip,slow
+
+?push:pause,pulse,slow,count-5,narrow grip,wide grip
+?pull:pause,pulse,slow,count-5,narrow grip,wide grip
+?legs:pause,pulse,slow,jump
+
+!push-e
+%pushups
+skullcrushers
+%couch dips
+banded shoulder press
+=plank to lay
+
+!push-m
+pulse pushups
+%dips
+diamond pushups
+%tricep band pushdowns
+=plank hold
+
+!push-h
+=frog stance
+clap pushups
+%pike pushups
+%leaning pushups
+incline one arm pushups
+finger pushups
+%archer pushups
+=finger plank
+
+!pull-e
+%bodyweight rows
+light-banded curls
+back extensions
+good-mornings
+=%hang
+=supermans
+
+!pull-m
+%pullups
+banded bicep curls
+%chinups
+=3-finger hang
+
+!pull-h
+feather-fall pullups
+grip-switch pullups
+one arm assisted chinups
+clap pullups
+%archer pullups
+hang-5 to pullup
+=single arm hang
+
+!legs-e
+%squats
+%lunges
+%calf raises
+=horse stance
+30sec squats
+
+!legs-m
+bulgarian split squats
+%jump squats
+assisted pistol squats
+%box jumps
+floor ham curls
+pistol squat balancing
+quad fallouts
+
+!legs-h
+=sprint to squats
+=pushup-less burpees
+pistol squats
+50m sprints
+nordic curls
+single leg floor ham curls

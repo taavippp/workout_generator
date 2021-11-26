@@ -1,0 +1,5 @@
+read:exercises.txt
+writing:1
+writeTo:workout.txt
+modDivider: / 
+modChance:0.5
